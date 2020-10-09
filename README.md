@@ -10,7 +10,7 @@
 
 ## Description
 This mobile app builds to help customers find and selecte Adelaide Fringe shows easier.
-Including many feaatures as: likes/ dislikes, favourite events, locations
+Including many features as: likes/ dislikes, favourite events, locations
 However, as this is Uni Assignment and it has marked yet as well as copyright of Adelaide Fringe Content, 
 I can not release it here, but happy to show it when meeting.
 
